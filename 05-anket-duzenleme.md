@@ -89,3 +89,4 @@ Anket araştırmaları için en uygun örnekleme yöntemidir. Diğer yöntemlerd
 Çerçeve oluşturmanın mümkün olmadığı durumlarda kullanılır. Bu yöntemde çerçeve yerine genellikle daha önceden yapılan tam sayım verilerine dayalı bir kota belirlenir.
 
 ##### Gönüllü Örnekleme
+
