@@ -52,19 +52,19 @@ C --> N["Diğer"]
 
 ```
 
-| Özellik               | Küme                                |Örnek                                    |
-|-----------------------|-------------------------------------|-----------------------------------------|
-| İndirgeme Yöntemi     | Tam Sayı                            | Örnekleme                               |
-| Büyüklük              | N                                   | n                                       |
-| Ortalama              | $\mu=\sum\frac{x}{N}$               | $\overline{x}=\sum\frac{x}{n}$          |
-| Varyans               | $\sigma^2=\sum\frac{(x-\mu)^2}{N}$  | $S^2=\sum\frac{x-\overline{x}}{(n-1)}$  |
-| Standart Sapma        | $\sigma$                            | S                                       |
-| Verilerin Genel Adı   | Parametre                           | İstatistik                              |
+| Özellik             | Küme                               | Örnek                                  |
+| ------------------- | ---------------------------------- | -------------------------------------- |
+| İndirgeme Yöntemi   | Tam Sayı                           | Örnekleme                              |
+| Büyüklük            | N                                  | n                                      |
+| Ortalama            | $\mu=\sum\frac{x}{N}$              | $\overline{x}=\sum\frac{x}{n}$         |
+| Varyans             | $\sigma^2=\sum\frac{(x-\mu)^2}{N}$ | $S^2=\sum\frac{x-\overline{x}}{(n-1)}$ |
+| Standart Sapma      | $\sigma$                           | S                                      |
+| Verilerin Genel Adı | Parametre                          | İstatistik                             |
 
 ###### 1) Araştırma Konusunun Belirlenmesi
 Anket ile bilimsel araştırma bağlantısını daha iyi kurabilmek için bilimsel araştırma yöntemlerinin hangi adımlardan oluştuğunu kısaca görelim. Araştırma konusunun yeni, özgün, mali ve teknik olarak yapılabilir olması bilgi üretme, sorun çözme ve yenilik getirme gibi hedefleri olmalıdır.
 
-###### 2) Araştırma Konusunun Belirlenmesi
+###### 2) Araştırma Amacının Belirlenmesi
 Araştırmanın amacı ve hangi soruya yanıt aradığı net olmalıdır.
 
 ###### 3) Araştırma Hipotezinin Belirlenmesi

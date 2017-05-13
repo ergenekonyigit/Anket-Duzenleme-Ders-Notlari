@@ -23,7 +23,7 @@ Bu hata aşağıda açıklanan 2 durumdan birinin gerçekleşmesi halinde proble
 
 **2-)** Örnekleme dahil olan kişilerin önemli bir kısmı ile görüşülememesi.
 
-##### İyi bir anketin aşağıda sayılan özelliklere sahip olması gerekir:
+#### İyi bir anketin aşağıda sayılan özelliklere sahip olması gerekir:
 
 **1-)** Araştırmacının tanımlamak istediği kitlenin herbir üyesi eşit ya da bilinen bir olasılıkla seçilme şansına sahip olmalıdır.
 

@@ -89,4 +89,13 @@ Anket araştırmaları için en uygun örnekleme yöntemidir. Diğer yöntemlerd
 Çerçeve oluşturmanın mümkün olmadığı durumlarda kullanılır. Bu yöntemde çerçeve yerine genellikle daha önceden yapılan tam sayım verilerine dayalı bir kota belirlenir.
 
 ##### Gönüllü Örnekleme
+Temel problem kaynağı gönüllülük oranı ile ilgilidir. Basit olarak bir kitledeki gönüllü insanların oranı diğerlerine göre düşükse buradaki farka neden olan özellikler tespit edilmelidir.
 
+##### Amaçlı Örnekleme
+Araştırmacının tesadüfi örnekleme yapmadan oluşturmaya çalıştığı genellenebilme özelliği taşıyan örnekleme yöntemidir. Ancak örneklemin hedef kitleyi temsil gücü hesaplanamadığından yöntem bilimsel çalışmalar için uygun değildir.
+
+##### Harita Örnekleme
+Karşılıklı görüşme tekniğinin kullanılacağı anket araştırması için oluşturulacak örneklemin harita yardımıyla belirtilmesidir.
+
+##### Bulunan Örnekleme
+Bulunan örnekleme tekniğinin geçerlilik kuralı müşteri araştırmalarıdır. Marketlerde satılan ürünlerle ilgili müşteri görüşlerini almanın en ekonomik yolu bu yöntemdir.
